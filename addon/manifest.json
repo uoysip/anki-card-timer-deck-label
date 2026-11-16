@@ -1,0 +1,7 @@
+{
+    "package": "card_timer_deck_label",
+    "name": "Card Timer & Deck Label",
+    "human_version": "1.0.0",
+    "min_point_version": 231200,
+    "homepage": "https://github.com/uoysip/anki-card-timer-deck-label"
+}

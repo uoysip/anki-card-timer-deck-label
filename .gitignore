@@ -1,0 +1,5 @@
+__pycache__/
+*.ankiaddon
+.DS_Store
+.ruff_cache/
+demo/
